@@ -1,0 +1,12 @@
+{
+  "name": "genpark-multimodal-aspect-ratio-smart-cropper-skill",
+  "version": "1.0.0",
+  "description": "Multimodal image smart cropper calculating saliency centroids and optimal responsive bounding boxes",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["smart-crop", "aspect-ratio", "saliency-centroid", "responsive-layout", "multimodal-vision", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
